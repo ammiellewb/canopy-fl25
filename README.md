@@ -1,6 +1,4 @@
-<div align="center">
-![Canopy Poster](https://github.com/ammiellewb/canopy-fl25/blob/main/CanopyPoster.png)
-</div>
+![Canopy Poster](CanopyPoster.png "UW Futures Lab - 1/12/2025 - Learning Symposium")
 
 # Run and deploy your AI Studio app
 
