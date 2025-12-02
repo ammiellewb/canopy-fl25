@@ -1,5 +1,5 @@
 <div align="center">
-![alt text](https://github.com/ammiellewb/canopy-fl25/CanopyPoster.jpg "Canopy Poster")
+![Canopy Poster](https://github.com/ammiellewb/canopy-fl25/blob/main/CanopyPoster.png)
 </div>
 
 # Run and deploy your AI Studio app
